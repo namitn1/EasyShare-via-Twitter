@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Tweet",
+  "description": "This extension lets you to share text, links, images etc. via your twitter account in just one click",
+  "version": "1.0",
+  "background": {
+    "scripts":["no.js"]
+  },
+  "icons" : {
+    "64":"twitter_icon.png",
+    "32":"twitter_icon.png",
+    "128":"twitter_icon.png"
+  },
+  "permissions": [
+    "contextMenus"
+  ]
+  
+}
