@@ -11,6 +11,7 @@
     "64":"twitter_icon.png",
     "32":"twitter_icon.png",
     "128":"twitter_icon.png"
+    "256":"twitter_icon.png"
   },
   "permissions": [
     "contextMenus"
