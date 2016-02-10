@@ -1,8 +1,8 @@
 var list = ["selection", "link", "page", "image"];
 
-for(i=0;i<list.length;i++) {
+for(j=0;j<list.length;j++) {
 
-	var context = list[i];
+	var context = list[j];
 	var abc = "Share this " + context + " via twitter";
 	chrome.contextMenus.create({
 		title: abc,
